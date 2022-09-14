@@ -1,4 +1,10 @@
  ## Hey, welcome to my github profile!
+I leave my social networks below (Some of my networks are private, but I will gladly accept your friend request):
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daniel.noriega.10888/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielenriquenoriega/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noriega402/)
+
 I have tried several ways to learn web development, but what I most enjoy doing is __back-end__ and __databases__, although I like them very much, I have also dedicated myself to the visual part of an application to have better knowledge.
 These are the technologies I am currently using, I hope to expand to more:
 ### Back-end
