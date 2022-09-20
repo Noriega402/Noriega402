@@ -31,4 +31,4 @@ These are the technologies I am currently using, I hope to expand to more:
 [![Microsoft_Office](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 
 ### Technologies most used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noriega402&layout=compact)](https://github.com/Noriega402/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noriega402&layout=compact)](https://github.com/Noriega402/)
