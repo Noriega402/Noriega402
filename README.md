@@ -43,6 +43,18 @@ These are the technologies I am currently using, I hope to expand to more:
 [![Microsoft_Office](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
  
 </div>
+<hr>
+<div id="wait" align="center">
+  <h3>Technologies to learn</h3>
+  <div align="left">
+     The technologies that I want to learn to master are those used in recent years and I have noticed that they are powerful, I feel that I still lack of backend is why they are the following:
+  </div>
+  
+  [![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+  [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+  [![Laravel](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+  [![Laravel](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
+</div>
 
 <div id="top-languages" align="center">
 
