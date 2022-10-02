@@ -16,7 +16,10 @@
 
 I have tried several ways to learn web development, but what I most enjoy doing is __back-end__ and __databases__, although I like them very much, I have also dedicated myself to the visual part of an application to have better knowledge.
 These are the technologies I am currently using, I hope to expand to more:
-### Back-end
+
+<div id="languages" align="center">
+
+ ### Back-end
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
@@ -38,6 +41,12 @@ These are the technologies I am currently using, I hope to expand to more:
 
 ### Others
 [![Microsoft_Office](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+ 
+</div>
 
-### Technologies most used
+<div id="top-languages" align="center">
+
+ ### Technologies most used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noriega402&layout=compact)](https://github.com/Noriega402/)
+ 
+</div>
