@@ -6,7 +6,7 @@
   Hey, welcome to my github profile!
 </h1>
 
-<div id="badges">
+<div id="main">
  <div align="center">
   <h2>Personal social networks</h2>
   
@@ -15,7 +15,12 @@
    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noriega402/)
  </div>
  <hr>
- <h2>Network College</h2>
+ <h2 id="badges">My badges</h2>
+ <div align="center">
+    <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE.png" height="300px" weigth="300px">
+ </div>
+ 
+ <h2 id="college">Network College</h2>
 <p style="text-align:left">
  This is my personal profile, here I learn in a self-taught way and this is my other university profile for tasks or projects with other technologies in case you want to know more about me. 👉🏼 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
@@ -29,7 +34,7 @@ These are the technologies I am currently using, I hope to expand to more:
 <div id="languages" align="center">
 
  ### Skills
-<div>
+<div id="skills">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
