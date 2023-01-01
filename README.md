@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://github.com/Noriega402/Noriega402/blob/main/Banner-DN.png" width="800"/>
+  <img src="https://github.com/Noriega402/Noriega402/blob/main/banner-oficial.png" width="800"/>
 </div>
 
 <h1 id="welcome" align="center">
