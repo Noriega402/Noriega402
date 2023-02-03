@@ -22,7 +22,10 @@
  
  <h2 id="college">Network College</h2>
 <p style="text-align:left">
- This is my personal profile, here I learn in a self-taught way and this is my other university profile for tasks or projects with other technologies in case you want to know more about me. 👉🏼 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ This is my personal profile, here I learn in a self-taught way and this is my other university profile for tasks or projects with other technologies in case you want to know more about me here. 👇🏼
+ 
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielNoriegaUMG)
+ 
 </p>
 </div>
 
