@@ -31,7 +31,8 @@
 </div>
 
 <p style="text-align:left">
-I have tried several ways to learn web development, but what I most enjoy doing is __back-end__ and __databases__, although I like them very much, I have also dedicated myself to the visual part of an application to have better knowledge.
+ 
+I have tried several ways to learn web development, but what I most enjoy doing is **back-end** and **databases**, although I like them very much, I have also dedicated myself to the visual part of an application to have better knowledge.
 These are the technologies I am currently using, I hope to expand to more:
 </p>
 
