@@ -17,8 +17,8 @@
  <hr>
  <h2 id="badges">My badges</h2>
  <div align="center">
-    <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE.png" height="200px" weigth="200px">
-    <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE-backend.png" height="200px" weigth="200px">
+    <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE.png" height="50px" weigth="50px">
+    <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE-backend.png" height="50px" weigth="50px">
  </div>
  
  <h2 id="college">Network College</h2>
