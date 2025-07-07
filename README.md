@@ -13,12 +13,13 @@
    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DanielN4002)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielenriquenoriega/)
    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noriega402/)
+   
  </div>
  <hr>
  <h2 id="badges">My badges</h2>
  <div align="center">
-    <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE.png" height="50px" weigth="50px">
-    <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE-backend.png" height="50px" weigth="50px">
+  <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE.png" height="50px" weigth="50px">
+  <img src="https://github.com/Noriega402/Noriega402/blob/main/badge-ONE-backend.png" height="50px" weigth="50px">
  </div>
  
  <h2 id="college">Network College</h2>
@@ -52,6 +53,10 @@ These are the technologies I am currently using, I hope to expand to more:
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
 ### O.S
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -66,14 +71,11 @@ These are the technologies I am currently using, I hope to expand to more:
   <div align="left">
      The technologies that I want to learn to master are those used in recent years and I have noticed that they are powerful, I feel that I still lack of backend is why they are the following:
   </div>
-  
-  [![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+ 
   [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
-  [![Laravel](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
-  [![Laravel](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
-  [![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
   [![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
   [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+  
 </div>
 
 <div id="top-languages" align="center">
